@@ -1,0 +1,14 @@
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\ResolveAssemblyReference.cache
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.Form1.resources
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.Form2.resources
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.Form3.resources
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.Form4.resources
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.Resources.resources
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.vbproj.GenerateResource.Cache
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\bin\Release\Library.exe
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\bin\Release\Library.pdb
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\bin\Release\Library.xml
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\bin\Release\Oracle.DataAccess.dll
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.exe
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.xml
+C:\Users\14205021\Documents\Visual Studio 2008\Projects\Library\Library\obj\Release\Library.pdb
